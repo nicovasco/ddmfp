@@ -4,7 +4,7 @@ import re
 import os
 
 USREPG = "nicovasco"
-BRANCHEPG = "nicovasco/ddmfp"
+BRANCHEPG = "ddmfp"
 MFPLINK = "https://nicovasco-moth.hf.space"     # non mettere lo / finale al link
 MFPPSW = "nicopr87"
 
